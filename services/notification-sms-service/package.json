@@ -1,0 +1,9 @@
+{
+    "name": "notification-sms-service",
+    "version": "1.0.0",
+    "main": "app.js",
+    "dependencies": {
+      "kafkajs": "^2.2.4"
+    }
+  }
+  

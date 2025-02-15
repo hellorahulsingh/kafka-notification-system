@@ -1,0 +1,14 @@
+{
+    "name": "notification-producer",
+    "version": "1.0.0",
+    "description": "Kafka notification producer service",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "kafkajs": "^2.0.0",
+      "mongodb": "^5.0.0"
+    }
+  }
+  

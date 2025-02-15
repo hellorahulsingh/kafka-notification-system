@@ -1,0 +1,10 @@
+{
+    "name": "notification-email-service",
+    "version": "1.0.0",
+    "main": "app.js",
+    "dependencies": {
+      "kafkajs": "^2.2.4",
+      "nodemailer": "^6.9.1"
+    }
+  }
+  
